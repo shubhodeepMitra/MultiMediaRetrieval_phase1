@@ -1,5 +1,5 @@
 
-# CSE 515 - Phase 1
+# Recommendation System using Vector Embeddings
 
 In the first phase there are three task.
 
